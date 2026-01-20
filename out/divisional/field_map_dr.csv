@@ -1,0 +1,12 @@
+season,round,col,col_pos,market_base,lock_slot_hint,lock_slot,market,value_type,game_key,game_id,game_title
+2026,dr,buffalo_denver_saturday_afternoon_game_spread,1,spread,NA,NA,spread,pick,buffalo_denver_saturday_afternoon_game,DR_01,Buffalo Denver Saturday Afternoon Game
+2026,dr,buffalo_denver_saturday_afternoon_game_total,2,total,NA,NA,total,pick,buffalo_denver_saturday_afternoon_game,DR_01,Buffalo Denver Saturday Afternoon Game
+2026,dr,san_francisco_seattle_saturday_night_game_spread,3,spread,NA,NA,spread,pick,san_francisco_seattle_saturday_night_game,DR_04,San Francisco Seattle Saturday Night Game
+2026,dr,san_francisco_seattle_saturday_night_game_total,4,total,NA,NA,total,pick,san_francisco_seattle_saturday_night_game,DR_04,San Francisco Seattle Saturday Night Game
+2026,dr,houston_new_england_sunday_afternoon_game_spread,5,spread,NA,NA,spread,pick,houston_new_england_sunday_afternoon_game,DR_02,Houston New England Sunday Afternoon Game
+2026,dr,houston_new_england_sunday_afternoon_game_total,6,total,NA,NA,total,pick,houston_new_england_sunday_afternoon_game,DR_02,Houston New England Sunday Afternoon Game
+2026,dr,los_angeles_chicago_sunday_night_football_spread,7,spread,NA,NA,spread,pick,los_angeles_chicago_sunday_night_football,DR_03,Los Angeles Chicago Sunday Night Football
+2026,dr,los_angeles_chicago_sunday_night_football_total,8,total,NA,NA,total,pick,los_angeles_chicago_sunday_night_football,DR_03,Los Angeles Chicago Sunday Night Football
+2026,dr,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,9,bonus_lock,1,1,bonus_lock_1,pick,NA,NA,NA
+2026,dr,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,10,bonus_lock,1,2,bonus_lock_2,pick,NA,NA,NA
+2026,dr,optional_for_fun_td_parlay_select_3_td_scorers_from_this_weekends_games_must_include_2_w_rs,11,NA,NA,NA,NA,pick,NA,NA,NA

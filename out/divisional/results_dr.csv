@@ -1,0 +1,9 @@
+season,round,game_id,game_label,market,correct_pick,option_1,option_2
+2026,dr,DR_01,buffalo_denver_saturday_afternoon_game,spread,Broncos -1.5,Bills +1.5,Broncos -1.5
+2026,dr,DR_01,buffalo_denver_saturday_afternoon_game,total,Over 46,Over 46,Under 46
+2026,dr,DR_02,houston_new_england_sunday_afternoon_game,spread,Patriots -3,Patriots -3,Texans +3
+2026,dr,DR_02,houston_new_england_sunday_afternoon_game,total,Over 40.5,Over 40.5,Under 40.5
+2026,dr,DR_03,los_angeles_chicago_sunday_night_football,spread,Bears +3.5,Bears +3.5,Rams -3.5
+2026,dr,DR_03,los_angeles_chicago_sunday_night_football,total,Under 48.5,Over 48.5,Under 48.5
+2026,dr,DR_04,san_francisco_seattle_saturday_night_game,spread,Seahawks -7,49ers +7,Seahawks -7
+2026,dr,DR_04,san_francisco_seattle_saturday_night_game,total,Over 45,Over 45,Under 45

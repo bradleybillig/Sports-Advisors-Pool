@@ -1,0 +1,71 @@
+season,round,email,lock_slot,lock_text,lock_norm,lock_team_tokens,lock_nums,market_hint,side_hint,game_hint,game_hint_method,matched,match_score,matched_reason,matched_game_id,matched_market,matched_pick,lock_hit,lock_points
+2026,dr,15greenawalta@gmail.com,1,Bills,bills,,,spread,NA,DR_01,lookup_one_team,TRUE,10,match_by_team_tokens,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,15greenawalta@gmail.com,2,Bills Over,bills over,,,total,over,DR_01,lookup_one_team,TRUE,25,match_by_ou_side,DR_01,total,Over 46,TRUE,1
+2026,dr,adurko2@gmail.com,1,SEA/SF U45,sea sf u45,,,total,under,DR_04,pair_lookup,TRUE,25,match_by_ou_side,DR_04,total,Under 45,FALSE,0
+2026,dr,adurko2@gmail.com,2,DEN -1.5,den -1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Broncos -1.5,TRUE,1
+2026,dr,andrew.beshay@gmail.com,1,49ers +7,49ers +7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,andrew.beshay@gmail.com,2,LA / Chi U48.,la chi u48.,,,total,under,DR_03,lookup_one_team,TRUE,25,match_by_ou_side,DR_03,total,Under 48.5,TRUE,1
+2026,dr,angelahawkins33@gmail.com,1,LA @ CHI over 48.5,la chi over 48.5,,,total,over,DR_03,lookup_one_team,TRUE,125,match_by_number,DR_03,total,Over 48.5,FALSE,0
+2026,dr,angelahawkins33@gmail.com,2,Seahawks -7,seahawks -7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,Seahawks -7,TRUE,1
+2026,dr,benvinner47@gmail.com,1,SF + 7,sf + 7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,benvinner47@gmail.com,2,Buffalo V Denver under,buffalo v denver under,,,total,under,DR_01,pair_lookup,TRUE,25,match_by_ou_side,DR_01,total,Under 46,FALSE,0
+2026,dr,bradcarr9622@yahoo.com,1,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,bradcarr9622@yahoo.com,2,Houston @ New England under 40.5,houston new england under 40.5,,,total,under,DR_02,pair_lookup,TRUE,125,match_by_number,DR_02,total,Under 40.5,FALSE,0
+2026,dr,bradleybillig@gmail.com,1,Bears Under,bears under,,,total,under,DR_03,lookup_one_team,TRUE,25,match_by_ou_side,DR_03,total,Under 48.5,TRUE,1
+2026,dr,bradleybillig@gmail.com,2,Seahawks,seahawks,,,spread,NA,DR_04,lookup_one_team,TRUE,10,match_by_team_tokens,DR_04,spread,Seahawks -7,TRUE,1
+2026,dr,bradmiller11@gmail.com,1,Patriots Under,patriots under,,,total,under,DR_02,lookup_one_team,TRUE,25,match_by_ou_side,DR_02,total,Under 40.5,FALSE,0
+2026,dr,bradmiller11@gmail.com,2,Niners under,niners under,,,total,under,DR_04,lookup_one_team,TRUE,25,match_by_ou_side,DR_04,total,Under 45,FALSE,0
+2026,dr,brandonmamou611@gmail.com,1,Bills spread,bills spread,,,spread,NA,DR_01,lookup_one_team,TRUE,10,match_by_team_tokens,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,brandonmamou611@gmail.com,2,Patriots spread,patriots spread,,,spread,NA,DR_02,lookup_one_team,TRUE,10,match_by_team_tokens,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,brennenpbillig@gmail.com,1,SF SEA under,sf sea under,,,total,under,DR_04,pair_lookup,TRUE,25,match_by_ou_side,DR_04,total,Under 45,FALSE,0
+2026,dr,brennenpbillig@gmail.com,2,Bills spread,bills spread,,,spread,NA,DR_01,lookup_one_team,TRUE,10,match_by_team_tokens,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,cade.pinkerbenard@gmail.com,1,49ers +7,49ers +7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,cade.pinkerbenard@gmail.com,2,Broncos -1.5,broncos -1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Broncos -1.5,TRUE,1
+2026,dr,coltonfday@gmail.com,1,Bills Broncos Over,bills broncos over,,,total,over,DR_01,pair_lookup,TRUE,25,match_by_ou_side,DR_01,total,Over 46,TRUE,1
+2026,dr,coltonfday@gmail.com,2,Pats -3,pats -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,eddiebillig7@gmail.com,1,Texans under,texans under,,,total,under,DR_02,lookup_one_team,TRUE,25,match_by_ou_side,DR_02,total,Under 40.5,FALSE,0
+2026,dr,eddiebillig7@gmail.com,2,Da Bears,da bears,,,spread,NA,DR_03,lookup_one_team,TRUE,10,match_by_team_tokens,DR_03,spread,Bears +3.5,TRUE,1
+2026,dr,epbillig@bergelectric.com,1,Bills,bills,,,spread,NA,DR_01,lookup_one_team,TRUE,10,match_by_team_tokens,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,epbillig@bergelectric.com,2,SF,sf,,,spread,NA,DR_04,lookup_one_team,TRUE,10,match_by_team_tokens,DR_04,spread,49ers +7,FALSE,0
+2026,dr,jamers28@gmail.com,1,49ers Seahawks Under 45,49ers seahawks under 45,,,total,under,DR_04,pair_lookup,TRUE,125,match_by_number,DR_04,total,Under 45,FALSE,0
+2026,dr,jamers28@gmail.com,2,Texans Patriots under 40.5,texans patriots under 40.5,,,total,under,DR_02,pair_lookup,TRUE,125,match_by_number,DR_02,total,Under 40.5,FALSE,0
+2026,dr,jaylevin96@gmail.com,1,Bears +3.5,bears +3.5,,,spread,NA,DR_03,lookup_one_team,TRUE,110,match_by_number,DR_03,spread,Bears +3.5,TRUE,1
+2026,dr,jaylevin96@gmail.com,2,Patriots -3,patriots -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,jdpapanikolas@gmail.com,1,Bills Broncos Under 46,bills broncos under 46,,,total,under,DR_01,pair_lookup,TRUE,125,match_by_number,DR_01,total,Under 46,FALSE,0
+2026,dr,jdpapanikolas@gmail.com,2,49ers Seahawks Under 45,49ers seahawks under 45,,,total,under,DR_04,pair_lookup,TRUE,125,match_by_number,DR_04,total,Under 45,FALSE,0
+2026,dr,joseph.hiscocks@gmail.com,1,Texans Patriots Under,texans patriots under,,,total,under,DR_02,pair_lookup,TRUE,25,match_by_ou_side,DR_02,total,Under 40.5,FALSE,0
+2026,dr,joseph.hiscocks@gmail.com,2,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,keithfeist@yahoo.com,1,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,keithfeist@yahoo.com,2,Houston @ New England Under 40.5,houston new england under 40.5,,,total,under,DR_02,pair_lookup,TRUE,125,match_by_number,DR_02,total,Under 40.5,FALSE,0
+2026,dr,kyansharshari@gmail.com,1,Rams -3.5,rams -3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,DR_03,spread,Rams -3.5,FALSE,0
+2026,dr,kyansharshari@gmail.com,2,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,kyledollison@roadrunner.com,1,Rams,rams,,,spread,NA,NA,lookup_none,TRUE,10,match_by_team_tokens,DR_03,spread,Rams -3.5,FALSE,0
+2026,dr,kyledollison@roadrunner.com,2,Pats,pats,,,spread,NA,DR_02,lookup_one_team,TRUE,10,match_by_team_tokens,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,kylermamou@gmail.com,1,Bears +3.5,bears +3.5,,,spread,NA,DR_03,lookup_one_team,TRUE,110,match_by_number,DR_03,spread,Bears +3.5,TRUE,1
+2026,dr,kylermamou@gmail.com,2,Patriots -3,patriots -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,lopez.christian8320@gmail.com,1,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,lopez.christian8320@gmail.com,2,Hou/NE Under 40.5,hou ne under 40.5,,,total,under,DR_02,pair_lookup,TRUE,125,match_by_number,DR_02,total,Under 40.5,FALSE,0
+2026,dr,ly.bryan3@gmail.com,1,Seahawks,seahawks,,,spread,NA,DR_04,lookup_one_team,TRUE,10,match_by_team_tokens,DR_04,spread,Seahawks -7,TRUE,1
+2026,dr,ly.bryan3@gmail.com,2,Bills,bills,,,spread,NA,DR_01,lookup_one_team,TRUE,10,match_by_team_tokens,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,mattalanboyd@gmail.com,1,Broncos -1.5,broncos -1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Broncos -1.5,TRUE,1
+2026,dr,mattalanboyd@gmail.com,2,Seattle -7,seattle -7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,Seahawks -7,TRUE,1
+2026,dr,maxj96@gmail.com,1,Patriots -3,patriots -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,maxj96@gmail.com,2,LA/Chicago under,la chicago under,,,total,under,DR_03,lookup_one_team,TRUE,25,match_by_ou_side,DR_03,total,Under 48.5,TRUE,1
+2026,dr,peteg805@gmail.com,1,Rams -3.5,rams -3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,DR_03,spread,Rams -3.5,FALSE,0
+2026,dr,peteg805@gmail.com,2,Rams bears over,rams bears over,,,total,over,DR_03,lookup_one_team,TRUE,25,match_by_ou_side,DR_03,total,Over 48.5,FALSE,0
+2026,dr,phil.j.nguyen@gmail.com,1,Patriots -3,patriots -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,phil.j.nguyen@gmail.com,2,49ers +7,49ers +7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,ross.philip.cohen@gmail.com,1,Rams -3.5,rams -3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,DR_03,spread,Rams -3.5,FALSE,0
+2026,dr,ross.philip.cohen@gmail.com,2,Patriots -3.5,patriots -3.5,,,spread,NA,DR_02,lookup_one_team,TRUE,10,match_by_team_tokens,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,ryancmckeown@gmail.com,1,49ers +7,49ers +7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,ryancmckeown@gmail.com,2,Rams bears under,rams bears under,,,total,under,DR_03,lookup_one_team,TRUE,25,match_by_ou_side,DR_03,total,Under 48.5,TRUE,1
+2026,dr,ryansalim@live.com,1,Houston @ New England - Under 40.5,houston new england - under 40.5,,,total,under,DR_02,pair_lookup,TRUE,125,match_by_number,DR_02,total,Under 40.5,FALSE,0
+2026,dr,ryansalim@live.com,2,San Francisco @ Seattle - Under 45,san francisco seattle - under 45,,,total,under,DR_04,pair_lookup,TRUE,125,match_by_number,DR_04,total,Under 45,FALSE,0
+2026,dr,smwisch@gmail.com,1,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,smwisch@gmail.com,2,Bears +3.5,bears +3.5,,,spread,NA,DR_03,lookup_one_team,TRUE,110,match_by_number,DR_03,spread,Bears +3.5,TRUE,1
+2026,dr,tim@revealwines.com,1,Rams -3.5,rams -3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,DR_03,spread,Rams -3.5,FALSE,0
+2026,dr,tim@revealwines.com,2,Patriots -3,patriots -3,,,spread,NA,DR_02,lookup_one_team,TRUE,110,match_by_number,DR_02,spread,Patriots -3,TRUE,1
+2026,dr,will.laws26@gmail.com,1,49ers +7,49ers +7,,,spread,NA,DR_04,lookup_one_team,TRUE,110,match_by_number,DR_04,spread,49ers +7,FALSE,0
+2026,dr,will.laws26@gmail.com,2,Bears +3.5,bears +3.5,,,spread,NA,DR_03,lookup_one_team,TRUE,110,match_by_number,DR_03,spread,Bears +3.5,TRUE,1
+2026,dr,zacharybear3@yahoo.com,1,Bills +1.5,bills +1.5,,,spread,NA,DR_01,lookup_one_team,TRUE,110,match_by_number,DR_01,spread,Bills +1.5,FALSE,0
+2026,dr,zacharybear3@yahoo.com,2,Rams -3.5,rams -3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,DR_03,spread,Rams -3.5,FALSE,0

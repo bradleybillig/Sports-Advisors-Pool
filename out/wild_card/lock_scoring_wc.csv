@@ -1,0 +1,75 @@
+season,round,email,lock_slot,lock_text,lock_norm,lock_team_tokens,lock_nums,market_hint,side_hint,game_hint,game_hint_method,matched,match_score,matched_reason,matched_game_id,matched_market,matched_pick,lock_hit,lock_points
+2026,wc,15greenawalta@gmail.com,1,Rams -10.5,rams -10.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,WC_05,spread,Rams -10.5,FALSE,0
+2026,wc,15greenawalta@gmail.com,2,Packers/Bears Under,packers bears under,,,total,under,WC_02,pair_lookup,TRUE,25,match_by_ou_side,WC_02,total,Under 45,FALSE,0
+2026,wc,adurko2@gmail.com,1,Jags +1,jags +1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Jaguars +1,FALSE,0
+2026,wc,adurko2@gmail.com,2,PHI -4.5,phi -4.5,,,spread,NA,WC_06,lookup_one_team,TRUE,110,match_by_number,WC_06,spread,Eagles -4.5,FALSE,0
+2026,wc,andrew.beshay@gmail.com,1,Panthers +10.5,panthers +10.5,,,spread,NA,WC_05,lookup_one_team,TRUE,110,match_by_number,WC_05,spread,Panthers +10.5,TRUE,1
+2026,wc,andrew.beshay@gmail.com,2,Bills -1,bills -1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,angelahawkins33@gmail.com,1,Bears +1,bears +1,,,spread,NA,WC_02,lookup_one_team,TRUE,110,match_by_number,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,angelahawkins33@gmail.com,2,LA @ New England over 46,la new england over 46,,,total,over,WC_04,lookup_one_team,TRUE,125,match_by_number,WC_04,total,Over 46,FALSE,0
+2026,wc,benvinner47@gmail.com,1,Buffalo - 1,buffalo - 1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,benvinner47@gmail.com,2,New England - 3.5,new england - 3.5,,,spread,NA,WC_04,lookup_one_team,TRUE,110,match_by_number,WC_04,spread,Patriots -3.5,TRUE,1
+2026,wc,bradcarr9622@yahoo.com,1,Chargers +3.5,chargers +3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,WC_04,spread,Chargers +3.5,FALSE,0
+2026,wc,bradcarr9622@yahoo.com,2,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,bradleybillig@gmail.com,1,Steelers Under,steelers under,,,total,under,WC_03,lookup_one_team,TRUE,25,match_by_ou_side,WC_03,total,Under 38.5,TRUE,1
+2026,wc,bradleybillig@gmail.com,2,Jaguars Over,jaguars over,,,total,over,WC_01,lookup_one_team,TRUE,25,match_by_ou_side,WC_01,total,Over 51.5,FALSE,0
+2026,wc,bradmiller11@gmail.com,1,Niners spread,niners spread,,,spread,NA,WC_06,lookup_one_team,TRUE,10,match_by_team_tokens,WC_06,spread,49ers +4.5,TRUE,1
+2026,wc,bradmiller11@gmail.com,2,Rams/Panthers Over,rams panthers over,,,total,over,WC_05,lookup_one_team,TRUE,25,match_by_ou_side,WC_05,total,Over 46.5,TRUE,1
+2026,wc,brandonmamou611@gmail.com,1,Bills Jags over,bills jags over,,,total,over,WC_01,pair_lookup,TRUE,25,match_by_ou_side,WC_01,total,Over 51.5,FALSE,0
+2026,wc,brandonmamou611@gmail.com,2,Rams Panthers Over,rams panthers over,,,total,over,WC_05,lookup_one_team,TRUE,25,match_by_ou_side,WC_05,total,Over 46.5,TRUE,1
+2026,wc,brennenpbillig@gmail.com,1,LAC NE over,lac ne over,,,total,over,WC_04,lookup_one_team,TRUE,25,match_by_ou_side,WC_04,total,Over 46,FALSE,0
+2026,wc,brennenpbillig@gmail.com,2,GB CHI under,gb chi under,,,total,under,WC_02,pair_lookup,TRUE,25,match_by_ou_side,WC_02,total,Under 45,FALSE,0
+2026,wc,cade.pinkerbenard@gmail.com,1,Bills -1,bills -1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,cade.pinkerbenard@gmail.com,2,Patriots -3.5,patriots -3.5,,,spread,NA,WC_04,lookup_one_team,TRUE,110,match_by_number,WC_04,spread,Patriots -3.5,TRUE,1
+2026,wc,chandler.a.larsen@gmail.com,1,Rams/Panthers,rams panthers,,,spread,NA,WC_05,lookup_one_team,TRUE,10,match_by_team_tokens,WC_05,spread,Rams -10.5,FALSE,0
+2026,wc,chandler.a.larsen@gmail.com,2,Chargers/Pats,chargers pats,,,spread,NA,WC_04,lookup_one_team,TRUE,10,match_by_team_tokens,WC_04,spread,Chargers +3.5,FALSE,0
+2026,wc,coltonfday@gmail.com,1,Bears Packers Under,bears packers under,,,total,under,WC_02,pair_lookup,TRUE,25,match_by_ou_side,WC_02,total,Under 45,FALSE,0
+2026,wc,coltonfday@gmail.com,2,Houston Pittsburgh Under,houston pittsburgh under,,,total,under,WC_03,pair_lookup,TRUE,25,match_by_ou_side,WC_03,total,Under 38.5,TRUE,1
+2026,wc,eddiebillig7@gmail.com,1,Texans,texans,,,spread,NA,WC_03,lookup_one_team,TRUE,10,match_by_team_tokens,WC_03,spread,Texans -3,TRUE,1
+2026,wc,eddiebillig7@gmail.com,2,Philly under,philly under,,,total,under,WC_06,lookup_one_team,TRUE,25,match_by_ou_side,WC_06,total,Under 44.5,TRUE,1
+2026,wc,epbillig@bergelectric.com,1,Rams,rams,,,spread,NA,NA,lookup_none,TRUE,10,match_by_team_tokens,WC_05,spread,Rams -10.5,FALSE,0
+2026,wc,epbillig@bergelectric.com,2,Packers,packers,,,spread,NA,WC_02,lookup_one_team,TRUE,10,match_by_team_tokens,WC_02,spread,Packers -1,FALSE,0
+2026,wc,jamers28@gmail.com,1,Chargers +3.5,chargers +3.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,WC_04,spread,Chargers +3.5,FALSE,0
+2026,wc,jamers28@gmail.com,2,Eagles 49ers u44.5,eagles 49ers u44.5,,,total,under,WC_06,pair_lookup,TRUE,25,match_by_ou_side,WC_06,total,Under 44.5,TRUE,1
+2026,wc,jaylevin96@gmail.com,1,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,jaylevin96@gmail.com,2,Bills -1,bills -1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,jdpapanikolas@gmail.com,1,Rams Panthers Under 46.5,rams panthers under 46.5,,,total,under,WC_05,lookup_one_team,TRUE,125,match_by_number,WC_05,total,Under 46.5,FALSE,0
+2026,wc,jdpapanikolas@gmail.com,2,Eagles -4.5,eagles -4.5,,,spread,NA,WC_06,lookup_one_team,TRUE,110,match_by_number,WC_06,spread,Eagles -4.5,FALSE,0
+2026,wc,joseph.hiscocks@gmail.com,1,Chargers,chargers,,,spread,NA,NA,lookup_none,TRUE,10,match_by_team_tokens,WC_04,spread,Chargers +3.5,FALSE,0
+2026,wc,joseph.hiscocks@gmail.com,2,Under Chargers Patriots,under chargers patriots,,,total,under,WC_04,lookup_one_team,TRUE,25,match_by_ou_side,WC_04,total,Under 46,TRUE,1
+2026,wc,keithfeist@yahoo.com,1,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,keithfeist@yahoo.com,2,Bears +1,bears +1,,,spread,NA,WC_02,lookup_one_team,TRUE,110,match_by_number,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,kyansharshari@gmail.com,1,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,kyansharshari@gmail.com,2,Bears +1,bears +1,,,spread,NA,WC_02,lookup_one_team,TRUE,110,match_by_number,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,kyledollison@roadrunner.com,1,Pats,pats,,,spread,NA,WC_04,lookup_one_team,TRUE,10,match_by_team_tokens,WC_04,spread,Patriots -3.5,TRUE,1
+2026,wc,kyledollison@roadrunner.com,2,"Over bills jags, if I can’t do spread just bills",over bills jags if i can t do spread just bills,,,total,over,WC_01,pair_lookup,TRUE,25,match_by_ou_side,WC_01,total,Over 51.5,FALSE,0
+2026,wc,kylermamou@gmail.com,1,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,kylermamou@gmail.com,2,Eagles -4.5,eagles -4.5,,,spread,NA,WC_06,lookup_one_team,TRUE,110,match_by_number,WC_06,spread,Eagles -4.5,FALSE,0
+2026,wc,lopez.christian8320@gmail.com,1,Bills -1,bills -1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,lopez.christian8320@gmail.com,2,Sf / Phi under 44.5,sf phi under 44.5,,,total,under,WC_06,pair_lookup,TRUE,125,match_by_number,WC_06,total,Under 44.5,TRUE,1
+2026,wc,ly.bryan3@gmail.com,1,Texans,texans,,,spread,NA,WC_03,lookup_one_team,TRUE,10,match_by_team_tokens,WC_03,spread,Texans -3,TRUE,1
+2026,wc,ly.bryan3@gmail.com,2,Bills,bills,,,spread,NA,WC_01,lookup_one_team,TRUE,10,match_by_team_tokens,WC_01,spread,Bills -1,TRUE,1
+2026,wc,mattalanboyd@gmail.com,1,Steelers +3,steelers +3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Steelers +3,FALSE,0
+2026,wc,mattalanboyd@gmail.com,2,Jags +1,jags +1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Jaguars +1,FALSE,0
+2026,wc,maxj96@gmail.com,1,Buf/Jax Over,buf jax over,,,total,over,WC_01,pair_lookup,TRUE,25,match_by_ou_side,WC_01,total,Over 51.5,FALSE,0
+2026,wc,maxj96@gmail.com,2,Jax +1,jax +1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Jaguars +1,FALSE,0
+2026,wc,oscaraugustine11@gmail.com,1,Bills -1,bills -1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Bills -1,TRUE,1
+2026,wc,oscaraugustine11@gmail.com,2,Green Bay vs Chicago Under,green bay vs chicago under,,,total,under,WC_02,pair_lookup,TRUE,25,match_by_ou_side,WC_02,total,Under 45,FALSE,0
+2026,wc,peteg805@gmail.com,1,Rams panthers over,rams panthers over,,,total,over,WC_05,lookup_one_team,TRUE,25,match_by_ou_side,WC_05,total,Over 46.5,TRUE,1
+2026,wc,peteg805@gmail.com,2,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,phil.j.nguyen@gmail.com,1,SF PHI over 44.5,sf phi over 44.5,,,total,over,WC_06,pair_lookup,TRUE,125,match_by_number,WC_06,total,Over 44.5,FALSE,0
+2026,wc,phil.j.nguyen@gmail.com,2,Texans -3,texans -3,,,spread,NA,WC_03,lookup_one_team,TRUE,110,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,ross.philip.cohen@gmail.com,1,Rams -10.5,rams -10.5,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,WC_05,spread,Rams -10.5,FALSE,0
+2026,wc,ross.philip.cohen@gmail.com,2,San Francisco @ Philadelphia Sunday Afternoon Game Total over 44.5,san francisco philadelphia sunday afternoon game total over 44.5,,,total,over,WC_06,pair_lookup,TRUE,125,match_by_number,WC_06,total,Over 44.5,FALSE,0
+2026,wc,ryancmckeown@gmail.com,1,Chicago spread,chicago spread,,,spread,NA,WC_02,lookup_one_team,TRUE,10,match_by_team_tokens,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,ryancmckeown@gmail.com,2,49ers spread,49ers spread,,,spread,NA,WC_06,lookup_one_team,TRUE,110,match_by_number,WC_06,spread,49ers +4.5,TRUE,1
+2026,wc,ryansalim@live.com,1,Texas -3,texas -3,,,spread,NA,NA,none,TRUE,100,match_by_number,WC_03,spread,Texans -3,TRUE,1
+2026,wc,ryansalim@live.com,2,Jaguars +1,jaguars +1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Jaguars +1,FALSE,0
+2026,wc,smwisch@gmail.com,1,Da Bears +1,da bears +1,,,spread,NA,WC_02,lookup_one_team,TRUE,110,match_by_number,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,smwisch@gmail.com,2,Pats -3.5,pats -3.5,,,spread,NA,WC_04,lookup_one_team,TRUE,110,match_by_number,WC_04,spread,Patriots -3.5,TRUE,1
+2026,wc,tim@revealwines.com,1,Green Bay Chicago under 45,green bay chicago under 45,,,total,under,WC_02,pair_lookup,TRUE,125,match_by_number,WC_02,total,Under 45,FALSE,0
+2026,wc,tim@revealwines.com,2,JAGUARS +1,jaguars +1,,,spread,NA,WC_01,lookup_one_team,TRUE,110,match_by_number,WC_01,spread,Jaguars +1,FALSE,0
+2026,wc,will.laws26@gmail.com,1,Carolina +10.5,carolina +10.5,,,spread,NA,WC_05,lookup_one_team,TRUE,110,match_by_number,WC_05,spread,Panthers +10.5,TRUE,1
+2026,wc,will.laws26@gmail.com,2,Panthers/Rams under,panthers rams under,,,total,under,WC_05,lookup_one_team,TRUE,25,match_by_ou_side,WC_05,total,Under 46.5,FALSE,0
+2026,wc,zacharybear3@yahoo.com,1,Bears +1,bears +1,,,spread,NA,WC_02,lookup_one_team,TRUE,110,match_by_number,WC_02,spread,Da Bears +1,TRUE,1
+2026,wc,zacharybear3@yahoo.com,2,49ers +4.5,49ers +4.5,,,spread,NA,WC_06,lookup_one_team,TRUE,110,match_by_number,WC_06,spread,49ers +4.5,TRUE,1

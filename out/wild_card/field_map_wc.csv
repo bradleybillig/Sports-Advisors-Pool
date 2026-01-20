@@ -1,0 +1,16 @@
+season,round,col,col_pos,market_base,lock_slot_hint,lock_slot,market,value_type,game_key,game_id,game_title
+2026,wc,los_angeles_nfc_carolina_saturday_early_game_spread,1,spread,NA,NA,spread,pick,los_angeles_nfc_carolina_saturday_early_game,WC_05,Los Angeles Nfc Carolina Saturday Early Game
+2026,wc,los_angeles_nfc_carolina_saturday_early_game_total,2,total,NA,NA,total,pick,los_angeles_nfc_carolina_saturday_early_game,WC_05,Los Angeles Nfc Carolina Saturday Early Game
+2026,wc,green_bay_chicago_saturday_night_game_spread,3,spread,NA,NA,spread,pick,green_bay_chicago_saturday_night_game,WC_02,Green Bay Chicago Saturday Night Game
+2026,wc,green_bay_chicago_saturday_night_game_total,4,total,NA,NA,total,pick,green_bay_chicago_saturday_night_game,WC_02,Green Bay Chicago Saturday Night Game
+2026,wc,buffalo_jacksonville_sunday_morning_game_spread,5,spread,NA,NA,spread,pick,buffalo_jacksonville_sunday_morning_game,WC_01,Buffalo Jacksonville Sunday Morning Game
+2026,wc,buffalo_jacksonville_sunday_morning_game_total,6,total,NA,NA,total,pick,buffalo_jacksonville_sunday_morning_game,WC_01,Buffalo Jacksonville Sunday Morning Game
+2026,wc,san_francisco_philadelphia_sunday_afternoon_game_spread,7,spread,NA,NA,spread,pick,san_francisco_philadelphia_sunday_afternoon_game,WC_06,San Francisco Philadelphia Sunday Afternoon Game
+2026,wc,san_francisco_philadelphia_sunday_afternoon_game_total,8,total,NA,NA,total,pick,san_francisco_philadelphia_sunday_afternoon_game,WC_06,San Francisco Philadelphia Sunday Afternoon Game
+2026,wc,los_angeles_afc_new_england_sunday_night_game_spread,9,spread,NA,NA,spread,pick,los_angeles_afc_new_england_sunday_night_game,WC_04,Los Angeles Afc New England Sunday Night Game
+2026,wc,los_angeles_afc_new_england_sunday_night_game_total,10,total,NA,NA,total,pick,los_angeles_afc_new_england_sunday_night_game,WC_04,Los Angeles Afc New England Sunday Night Game
+2026,wc,houston_pittsburgh_monday_night_football_spread,11,spread,NA,NA,spread,pick,houston_pittsburgh_monday_night_football,WC_03,Houston Pittsburgh Monday Night Football
+2026,wc,houston_pittsburgh_monday_night_football_total,12,total,NA,NA,total,pick,houston_pittsburgh_monday_night_football,WC_03,Houston Pittsburgh Monday Night Football
+2026,wc,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,13,bonus_lock,1,1,bonus_lock_1,pick,NA,NA,NA
+2026,wc,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,14,bonus_lock,1,2,bonus_lock_2,pick,NA,NA,NA
+2026,wc,which_nfl_player_is_this,15,NA,NA,NA,NA,pick,NA,NA,NA

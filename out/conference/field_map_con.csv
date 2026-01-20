@@ -1,0 +1,7 @@
+season,round,col,col_pos,market_base,lock_slot_hint,lock_slot,market,value_type,game_key,game_id,game_title
+2026,con,nfc_championship_game_spread,1,spread,NA,NA,spread,pick,nfc_championship_game,CON_02,Nfc Championship Game
+2026,con,nfc_championship_game_total,2,total,NA,NA,total,pick,nfc_championship_game,CON_02,Nfc Championship Game
+2026,con,afc_championship_game_spread,3,spread,NA,NA,spread,pick,afc_championship_game,CON_01,Afc Championship Game
+2026,con,afc_championship_game_total,4,total,NA,NA,total,pick,afc_championship_game,CON_01,Afc Championship Game
+2026,con,bonus_lock_of_the_weekend_same_rules_as_previous_weeks_worth_2_extra_points,5,bonus_lock,NA,1,bonus_lock_1,pick,NA,NA,NA
+2026,con,weekly_payout_tiebreaker_price_is_right_rules_predict_the_combined_total_amount_of_points_scored_in_this_weekends_games_without_going_over,6,conf_tiebreaker,NA,NA,conf_tiebreaker_total_points,tiebreaker,NA,NA,NA

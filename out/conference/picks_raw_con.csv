@@ -1,0 +1,13 @@
+season,round,timestamp,email,name,col,response
+2026,con,NA,billigbrad@gmail.com,Test2,nfc_championship_game_spread,Seahawks -6
+2026,con,NA,billigbrad@gmail.com,Test2,nfc_championship_game_total,Under 47
+2026,con,NA,billigbrad@gmail.com,Test2,afc_championship_game_spread,Broncos +3
+2026,con,NA,billigbrad@gmail.com,Test2,afc_championship_game_total,Under 50
+2026,con,NA,billigbrad@gmail.com,Test2,bonus_lock_of_the_weekend_same_rules_as_previous_weeks_worth_2_extra_points,Seahawks -6
+2026,con,NA,billigbrad@gmail.com,Test2,weekly_payout_tiebreaker_price_is_right_rules_predict_the_combined_total_amount_of_points_scored_in_this_weekends_games_without_going_over,50
+2026,con,NA,bradbillig@gmail.com,Test,nfc_championship_game_spread,Rams +6
+2026,con,NA,bradbillig@gmail.com,Test,nfc_championship_game_total,Over 47
+2026,con,NA,bradbillig@gmail.com,Test,afc_championship_game_spread,Patriots -3
+2026,con,NA,bradbillig@gmail.com,Test,afc_championship_game_total,Over 50
+2026,con,NA,bradbillig@gmail.com,Test,bonus_lock_of_the_weekend_same_rules_as_previous_weeks_worth_2_extra_points,Patriots -3
+2026,con,NA,bradbillig@gmail.com,Test,weekly_payout_tiebreaker_price_is_right_rules_predict_the_combined_total_amount_of_points_scored_in_this_weekends_games_without_going_over,70

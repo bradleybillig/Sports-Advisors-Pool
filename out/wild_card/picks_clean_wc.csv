@@ -1,0 +1,519 @@
+season,round,email,timestamp,source_col,game_id,market,value_type,pick_value_raw,pick_value,pick_norm
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,15greenawalta@gmail.com,2026-01-09T20:23:27Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Packers/Bears Under,Packers/Bears Under,packers/bears under
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Jags +1,Jags +1,jags +1
+2026,wc,adurko2@gmail.com,2026-01-09T23:31:13Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,PHI -4.5,PHI -4.5,phi -4.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,andrew.beshay@gmail.com,2026-01-10T14:49:44Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Bills -1,Bills -1,bills -1
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bears +1,Bears +1,bears +1
+2026,wc,angelahawkins33@gmail.com,2026-01-10T09:44:39Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,LA @ New England over 46,LA @ New England over 46,la @ new england over 46
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Buffalo - 1,Buffalo - 1,buffalo - 1
+2026,wc,benvinner47@gmail.com,2026-01-10T14:09:14Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,New England - 3.5,New England - 3.5,new england - 3.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,bradcarr9622@yahoo.com,2026-01-08T15:28:04Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Texans -3,Texans -3,texans -3
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Steelers Under,Steelers Under,steelers under
+2026,wc,bradleybillig@gmail.com,2026-01-09T09:33:12Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Jaguars Over,Jaguars Over,jaguars over
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Niners spread,Niners spread,niners spread
+2026,wc,bradmiller11@gmail.com,2026-01-09T11:44:01Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Rams/Panthers Over,Rams/Panthers Over,rams/panthers over
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bills Jags over,Bills Jags over,bills jags over
+2026,wc,brandonmamou611@gmail.com,2026-01-10T15:29:31Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Rams Panthers Over,Rams Panthers Over,rams panthers over
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,LAC NE over,LAC NE over,lac ne over
+2026,wc,brennenpbillig@gmail.com,2026-01-10T13:29:32Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,GB CHI under,GB CHI under,gb chi under
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bills -1,Bills -1,bills -1
+2026,wc,cade.pinkerbenard@gmail.com,2026-01-10T02:18:53Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Patriots -3.5,Patriots -3.5,patriots -3.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams/Panthers,Rams/Panthers,rams/panthers
+2026,wc,chandler.a.larsen@gmail.com,2026-01-10T09:31:08Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Chargers/Pats,Chargers/Pats,chargers/pats
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bears Packers Under,Bears Packers Under,bears packers under
+2026,wc,coltonfday@gmail.com,2026-01-10T11:24:11Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Houston Pittsburgh Under,Houston Pittsburgh Under,houston pittsburgh under
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans,Texans,texans
+2026,wc,eddiebillig7@gmail.com,2026-01-10T07:33:12Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Philly under,Philly under,philly under
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams,Rams,rams
+2026,wc,epbillig@bergelectric.com,2026-01-10T07:37:58Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Packers,Packers,packers
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,jamers28@gmail.com,2026-01-08T13:37:46Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Eagles 49ers u44.5,Eagles 49ers u44.5,eagles 49ers u44.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans -3,Texans -3,texans -3
+2026,wc,jaylevin96@gmail.com,2026-01-10T12:07:18Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Bills -1,Bills -1,bills -1
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams Panthers Under 46.5,Rams Panthers Under 46.5,rams panthers under 46.5
+2026,wc,jdpapanikolas@gmail.com,2026-01-10T10:55:25Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Chargers,Chargers,chargers
+2026,wc,joseph.hiscocks@gmail.com,2026-01-08T13:25:18Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Under Chargers Patriots,Under Chargers Patriots,under chargers patriots
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans -3,Texans -3,texans -3
+2026,wc,keithfeist@yahoo.com,2026-01-09T20:50:30Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Bears +1,Bears +1,bears +1
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans -3,Texans -3,texans -3
+2026,wc,kyansharshari@gmail.com,2026-01-08T21:53:56Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Bears +1,Bears +1,bears +1
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Pats,Pats,pats
+2026,wc,kyledollison@roadrunner.com,2026-01-10T12:18:28Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,"Over bills jags, if I can’t do spread just bills","Over bills jags, if I can’t do spread just bills","over bills jags, if i can’t do spread just bills"
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans -3,Texans -3,texans -3
+2026,wc,kylermamou@gmail.com,2026-01-09T19:05:59Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bills -1,Bills -1,bills -1
+2026,wc,lopez.christian8320@gmail.com,2026-01-09T18:58:12Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Sf / Phi under 44.5,Sf / Phi under 44.5,sf / phi under 44.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texans,Texans,texans
+2026,wc,ly.bryan3@gmail.com,2026-01-10T12:51:31Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Bills,Bills,bills
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,mattalanboyd@gmail.com,2026-01-10T08:47:57Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Jags +1,Jags +1,jags +1
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Buf/Jax Over,Buf/Jax Over,buf/jax over
+2026,wc,maxj96@gmail.com,2026-01-10T11:21:39Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Jax +1,Jax +1,jax +1
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bills -1,Bills -1,bills -1
+2026,wc,oscaraugustine11@gmail.com,2026-01-08T21:40:34Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Green Bay vs Chicago Under,Green Bay vs Chicago Under,green bay vs chicago under
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams panthers over,Rams panthers over,rams panthers over
+2026,wc,peteg805@gmail.com,2026-01-10T11:06:48Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Texans -3,Texans -3,texans -3
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,SF PHI over 44.5,SF PHI over 44.5,sf phi over 44.5
+2026,wc,phil.j.nguyen@gmail.com,2026-01-10T14:11:52Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Texans -3,Texans -3,texans -3
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Packers -1,Packers -1,packers -1
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,ross.philip.cohen@gmail.com,2026-01-10T13:37:39Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,San Francisco @ Philadelphia Sunday Afternoon Game Total over 44.5,San Francisco @ Philadelphia Sunday Afternoon Game Total over 44.5,san francisco @ philadelphia sunday afternoon game total over 44.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Chicago spread,Chicago spread,chicago spread
+2026,wc,ryancmckeown@gmail.com,2026-01-08T17:27:42Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,San Francisco spread,San Francisco spread,san francisco spread
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Texas -3,Texas -3,texas -3
+2026,wc,ryansalim@live.com,2026-01-09T20:50:52Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,Eagles -4.5,Eagles -4.5,eagles -4.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Patriots  -3.5,Patriots -3.5,patriots -3.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Over 38.5,Over 38.5,over 38.5
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,smwisch@gmail.com,2026-01-10T09:54:00Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Pats -3.5,Pats -3.5,pats -3.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Over 46.5,Over 46.5,over 46.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Under 45,Under 45,under 45
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Jaguars +1,Jaguars +1,jaguars +1
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Green Bay Chicago under 45,Green Bay Chicago under 45,green bay chicago under 45
+2026,wc,tim@revealwines.com,2026-01-09T11:05:59Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,JAGUARS  +1,JAGUARS +1,jaguars +1
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Panthers +10.5,Panthers +10.5,panthers +10.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Over 51.5,Over 51.5,over 51.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Over 44.5,Over 44.5,over 44.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Under 46,Under 46,under 46
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Steelers +3,Steelers +3,steelers +3
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Carolina +10.5,Carolina +10.5,carolina +10.5
+2026,wc,will.laws26@gmail.com,2026-01-08T13:39:14Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,Panthers/Rams under,Panthers/Rams under,panthers/rams under
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,los_angeles_nfc_carolina_saturday_early_game_spread,WC_05,spread,pick,Rams -10.5,Rams -10.5,rams -10.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,los_angeles_nfc_carolina_saturday_early_game_total,WC_05,total,pick,Under 46.5,Under 46.5,under 46.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,green_bay_chicago_saturday_night_game_spread,WC_02,spread,pick,Da Bears +1,Da Bears +1,da bears +1
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,green_bay_chicago_saturday_night_game_total,WC_02,total,pick,Over 45,Over 45,over 45
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,buffalo_jacksonville_sunday_morning_game_spread,WC_01,spread,pick,Bills -1,Bills -1,bills -1
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,buffalo_jacksonville_sunday_morning_game_total,WC_01,total,pick,Under 51.5,Under 51.5,under 51.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,san_francisco_philadelphia_sunday_afternoon_game_spread,WC_06,spread,pick,49ers +4.5,49ers +4.5,49ers +4.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,san_francisco_philadelphia_sunday_afternoon_game_total,WC_06,total,pick,Under 44.5,Under 44.5,under 44.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,los_angeles_afc_new_england_sunday_night_game_spread,WC_04,spread,pick,Chargers +3.5,Chargers +3.5,chargers +3.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,los_angeles_afc_new_england_sunday_night_game_total,WC_04,total,pick,Over 46,Over 46,over 46
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,houston_pittsburgh_monday_night_football_spread,WC_03,spread,pick,Texans -3,Texans -3,texans -3
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,houston_pittsburgh_monday_night_football_total,WC_03,total,pick,Under 38.5,Under 38.5,under 38.5
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,bonus_point_1_first_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks,NA,bonus_lock_1,pick,Bears +1,Bears +1,bears +1
+2026,wc,zacharybear3@yahoo.com,2026-01-09T13:25:45Z,bonus_point_2_second_lock_of_the_weekend_assess_an_extra_possible_point_to_your_most_confident_picks_must_be_different_than_your_first_lock,NA,bonus_lock_2,pick,49ers +4.5,49ers +4.5,49ers +4.5

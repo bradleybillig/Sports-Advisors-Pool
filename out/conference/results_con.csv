@@ -1,0 +1,5 @@
+season,round,game_id,game_label,market,correct_pick,option_1,option_2
+2026,con,CON_01,afc_championship_game,spread,Broncos +3,Broncos +3,Patriots -3
+2026,con,CON_01,afc_championship_game,total,Under 50,Over 50,Under 50
+2026,con,CON_02,nfc_championship_game,spread,Rams +6,Rams +6,Seahawks -6
+2026,con,CON_02,nfc_championship_game,total,Over 47,Over 47,Under 47

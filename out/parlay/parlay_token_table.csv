@@ -1,0 +1,49 @@
+pick_clean,count,pick_key,pick_display,notes
+jsn,13,jaxon_smith_njigba,Jaxon Smith-Njigba,Common abbreviation.
+puka,9,puka_nacua,Puka Nacua,
+josh allen,7,josh_allen,Josh Allen,
+nacua,7,puka_nacua,Puka Nacua,Surname only.
+cmc,3,christian_mccaffrey,Christian McCaffrey,Common abbreviation.
+cook,3,james_cook,James Cook,Ambiguous (Cook surname). Likely James Cook.
+diggs,3,stefon_diggs,Stefon Diggs,Ambiguous: could be Trevon Diggs. Verify team.
+puka nacua,3,puka_nacua,Puka Nacua,Full name.
+allen,2,josh_allen,Josh Allen,Ambiguous: could also mean Keenan Allen. Verify.
+boutte,2,kayshon_boutte,Kayshon Boutte,Surname only.
+davante adams,2,davante_adams,Davante Adams,
+jake tonges,2,jake_tonges,Jake Tonges,
+luther burden,2,luther_burden_iii,Luther Burden III,Likely college player / not confirmed NFL. Verify.
+odunze,2,rome_odunze,Rome Odunze,
+sutton,2,courtland_sutton,Courtland Sutton,Surname only.
+troy franklin,2,troy_franklin,Troy Franklin,
+adams,1,davante_adams,Davante Adams,Ambiguous Adams. Likely Davante.
+bo nix,1,bo_nix,Bo Nix,
+brandin cooks,1,brandin_cooks,Brandin Cooks,
+charlie kirk,1,christian_kirk,Christian Kirk,Looks like a joke / not an NFL player.
+christian kirk,1,christian_kirk,Christian Kirk,
+christian mccaffrey,1,christian_mccaffrey,Christian McCaffrey,
+cmac,1,christian_mccaffrey,Christian McCaffrey,Common nickname.
+collins,1,nico_collins,Nico Collins,Ambiguous Collins. Likely Nico Collins.
+cooper kupp,1,cooper_kupp,Cooper Kupp,
+courtland sutton,1,courtland_sutton,Courtland Sutton,
+davante,1,davante_adams,Davante Adams,First name only.
+derek stingley,1,derek_stingley_jr,Derek Stingley Jr.,Defensive player. Verify intent.
+devonte adams,1,davante_adams,Davante Adams,Likely misspelling of Davante.
+dj moore,1,dj_moore,D.J. Moore,
+drake maye,1,drake_maye,Drake Maye,
+houston defense,1,houston_texans_defense,Texans D/ST,
+james cook,1,james_cook,James Cook,
+jayden higgins,1,jayden_higgins,Jayden Higgins,Unclear; likely not an NFL TD scorer. Verify.
+jordan whittington,1,jordan_whittington,Jordan Whittington,
+juszczyk,1,kyle_juszczyk,Kyle Juszczyk,Surname only.
+keon coleman,1,keon_coleman,Keon Coleman,
+kupp,1,cooper_kupp,Cooper Kupp,Surname only.
+luther burden iii,1,luther_burden_iii,Luther Burden III,Likely college player / not confirmed NFL. Verify.
+mitch trubisky,1,mitch_trubisky,Mitch Trubisky,Verify active status.
+moore,1,dj_moore,D.J. Moore,Ambiguous Moore. Likely D.J. Moore.
+nix,1,bo_nix,Bo Nix,Surname only.
+njigba,1,jaxon_smith_njigba,Jaxon Smith-Njigba,Surname only.
+odzune,1,rome_odunze,Rome Odunze,Likely misspelling of Odunze.
+puca,1,puka_nacua,Puka Nacua,Likely misspelling of “Puka”.
+rj harvey,1,rj_harvey,RJ Harvey,Unclear; likely not an NFL TD scorer. Verify.
+shakir,1,khalil_shakir,Khalil Shakir,Surname only.
+texans defense,1,houston_texans_defense,Texans D/ST,

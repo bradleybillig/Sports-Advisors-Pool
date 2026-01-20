@@ -1,0 +1,2 @@
+season,round,sheet,players,picks_raw_rows,picks_clean_rows,mapped_spread_total_cols,mapped_lock_cols,mapped_tiebreaker_cols,unique_games,unmapped_cols
+2026,con,Conference,2,12,12,4,1,1,2,0

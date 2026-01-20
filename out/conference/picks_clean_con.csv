@@ -1,0 +1,13 @@
+season,round,email,timestamp,source_col,game_id,market,value_type,pick_value_raw,pick_value,pick_norm
+2026,con,billigbrad@gmail.com,NA,nfc_championship_game_spread,CON_02,spread,pick,Seahawks -6,Seahawks -6,seahawks -6
+2026,con,billigbrad@gmail.com,NA,nfc_championship_game_total,CON_02,total,pick,Under 47,Under 47,under 47
+2026,con,billigbrad@gmail.com,NA,afc_championship_game_spread,CON_01,spread,pick,Broncos +3,Broncos +3,broncos +3
+2026,con,billigbrad@gmail.com,NA,afc_championship_game_total,CON_01,total,pick,Under 50,Under 50,under 50
+2026,con,billigbrad@gmail.com,NA,bonus_lock_of_the_weekend_same_rules_as_previous_weeks_worth_2_extra_points,NA,bonus_lock_1,pick,Seahawks -6,Seahawks -6,seahawks -6
+2026,con,billigbrad@gmail.com,NA,weekly_payout_tiebreaker_price_is_right_rules_predict_the_combined_total_amount_of_points_scored_in_this_weekends_games_without_going_over,NA,conf_tiebreaker_total_points,tiebreaker,50,50,50
+2026,con,bradbillig@gmail.com,NA,nfc_championship_game_spread,CON_02,spread,pick,Rams +6,Rams +6,rams +6
+2026,con,bradbillig@gmail.com,NA,nfc_championship_game_total,CON_02,total,pick,Over 47,Over 47,over 47
+2026,con,bradbillig@gmail.com,NA,afc_championship_game_spread,CON_01,spread,pick,Patriots -3,Patriots -3,patriots -3
+2026,con,bradbillig@gmail.com,NA,afc_championship_game_total,CON_01,total,pick,Over 50,Over 50,over 50
+2026,con,bradbillig@gmail.com,NA,bonus_lock_of_the_weekend_same_rules_as_previous_weeks_worth_2_extra_points,NA,bonus_lock_1,pick,Patriots -3,Patriots -3,patriots -3
+2026,con,bradbillig@gmail.com,NA,weekly_payout_tiebreaker_price_is_right_rules_predict_the_combined_total_amount_of_points_scored_in_this_weekends_games_without_going_over,NA,conf_tiebreaker_total_points,tiebreaker,70,70,70

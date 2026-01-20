@@ -1,0 +1,106 @@
+round_code,email,player,market,leg_num,pick_raw,pick_clean,pick_key,pick_display,matched
+dr,15greenawalta@gmail.com,Alec (better than Bryce) Greenawalt,td_parlay,1,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,15greenawalta@gmail.com,Alec (better than Bryce) Greenawalt,td_parlay,2,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,15greenawalta@gmail.com,Alec (better than Bryce) Greenawalt,td_parlay,3,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,andrew.beshay@gmail.com,Andrew Beshay,td_parlay,1,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,andrew.beshay@gmail.com,Andrew Beshay,td_parlay,2,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,andrew.beshay@gmail.com,Andrew Beshay,td_parlay,3,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,angelahawkins33@gmail.com,Angela Hawkins,td_parlay,1,Houston defense,houston defense,houston_texans_defense,Texans D/ST,TRUE
+dr,angelahawkins33@gmail.com,Angela Hawkins,td_parlay,2,Puka Nacua,puka nacua,puka_nacua,Puka Nacua,TRUE
+dr,angelahawkins33@gmail.com,Angela Hawkins,td_parlay,3,Christian Kirk,christian kirk,christian_kirk,Christian Kirk,TRUE
+dr,benvinner17@gmail.com,Ben V.,td_parlay,1,,,,,FALSE
+dr,benvinner17@gmail.com,Ben V.,td_parlay,2,,,,,FALSE
+dr,benvinner17@gmail.com,Ben V.,td_parlay,3,,,,,FALSE
+dr,brennenpbillig@gmail.com,Boo,td_parlay,1,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,brennenpbillig@gmail.com,Boo,td_parlay,2,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,brennenpbillig@gmail.com,Boo,td_parlay,3,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,bradleybillig@gmail.com,Brad Billig,td_parlay,1,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,bradleybillig@gmail.com,Brad Billig,td_parlay,2,Njigba,njigba,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,bradleybillig@gmail.com,Brad Billig,td_parlay,3,Cook,cook,james_cook,James Cook,TRUE
+dr,bradmiller11@gmail.com,Brad Miller,td_parlay,1,DJ Moore,dj moore,dj_moore,D.J. Moore,TRUE
+dr,bradmiller11@gmail.com,Brad Miller,td_parlay,2,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,bradmiller11@gmail.com,Brad Miller,td_parlay,3,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,bradcarr9622@yahoo.com,Bradly Carr,td_parlay,1,Luther Burden,luther burden,luther_burden_iii,Luther Burden III,TRUE
+dr,bradcarr9622@yahoo.com,Bradly Carr,td_parlay,2,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,bradcarr9622@yahoo.com,Bradly Carr,td_parlay,3,Jayden Higgins,jayden higgins,jayden_higgins,Jayden Higgins,TRUE
+dr,brandonmamou611@gmail.com,Brandon Mamou,td_parlay,1,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,brandonmamou611@gmail.com,Brandon Mamou,td_parlay,2,CMC,cmc,christian_mccaffrey,Christian McCaffrey,TRUE
+dr,brandonmamou611@gmail.com,Brandon Mamou,td_parlay,3,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,ly.bryan3@gmail.com,Bryan Ly,td_parlay,1,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,ly.bryan3@gmail.com,Bryan Ly,td_parlay,2,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,ly.bryan3@gmail.com,Bryan Ly,td_parlay,3,Cmac,cmac,christian_mccaffrey,Christian McCaffrey,TRUE
+dr,cade.pinkerbenard@gmail.com,Cade Pinker-Benard,td_parlay,1,Sutton,sutton,courtland_sutton,Courtland Sutton,TRUE
+dr,cade.pinkerbenard@gmail.com,Cade Pinker-Benard,td_parlay,2,Troy Franklin,troy franklin,troy_franklin,Troy Franklin,TRUE
+dr,cade.pinkerbenard@gmail.com,Cade Pinker-Benard,td_parlay,3,Bo Nix,bo nix,bo_nix,Bo Nix,TRUE
+dr,lopez.christian8320@gmail.com,Christian Lopez,td_parlay,1,Luther Burden III,luther burden iii,luther_burden_iii,Luther Burden III,TRUE
+dr,lopez.christian8320@gmail.com,Christian Lopez,td_parlay,2,Brandin Cooks,brandin cooks,brandin_cooks,Brandin Cooks,TRUE
+dr,lopez.christian8320@gmail.com,Christian Lopez,td_parlay,3,Jake Tonges,jake tonges,jake_tonges,Jake Tonges,TRUE
+dr,coltonfday@gmail.com,Colton Day,td_parlay,1,DeVonte Adams,devonte adams,davante_adams,Davante Adams,TRUE
+dr,coltonfday@gmail.com,Colton Day,td_parlay,2,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,coltonfday@gmail.com,Colton Day,td_parlay,3,Drake Maye,drake maye,drake_maye,Drake Maye,TRUE
+dr,whitefish906@gmail.com,Dirk Durko,td_parlay,1,Nix,nix,bo_nix,Bo Nix,TRUE
+dr,whitefish906@gmail.com,Dirk Durko,td_parlay,2,Boutte,boutte,kayshon_boutte,Kayshon Boutte,TRUE
+dr,whitefish906@gmail.com,Dirk Durko,td_parlay,3,Odzune,odzune,rome_odunze,Rome Odunze,TRUE
+dr,eddiebillig7@gmail.com,Eddie,td_parlay,1,Allen,allen,josh_allen,Josh Allen,TRUE
+dr,eddiebillig7@gmail.com,Eddie,td_parlay,2,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,eddiebillig7@gmail.com,Eddie,td_parlay,3,Odunze,odunze,rome_odunze,Rome Odunze,TRUE
+dr,jdpapanikolas@gmail.com,J.D. Papanikolas,td_parlay,1,RJ Harvey,rj harvey,rj_harvey,RJ Harvey,TRUE
+dr,jdpapanikolas@gmail.com,J.D. Papanikolas,td_parlay,2,Davante Adams,davante adams,davante_adams,Davante Adams,TRUE
+dr,jdpapanikolas@gmail.com,J.D. Papanikolas,td_parlay,3,Puka Nacua,puka nacua,puka_nacua,Puka Nacua,TRUE
+dr,jaylevin96@gmail.com,Jay Levin,td_parlay,1,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,jaylevin96@gmail.com,Jay Levin,td_parlay,2,Moore,moore,dj_moore,D.J. Moore,TRUE
+dr,jaylevin96@gmail.com,Jay Levin,td_parlay,3,Adams,adams,davante_adams,Davante Adams,TRUE
+dr,joseph.hiscocks@gmail.com,Joey Hiscocks,td_parlay,1,Texans Defense,texans defense,houston_texans_defense,Texans D/ST,TRUE
+dr,joseph.hiscocks@gmail.com,Joey Hiscocks,td_parlay,2,Keon Coleman,keon coleman,keon_coleman,Keon Coleman,TRUE
+dr,joseph.hiscocks@gmail.com,Joey Hiscocks,td_parlay,3,Courtland Sutton,courtland sutton,courtland_sutton,Courtland Sutton,TRUE
+dr,keithfeist@yahoo.com,Keith,td_parlay,1,Mitch Trubisky,mitch trubisky,mitch_trubisky,Mitch Trubisky,TRUE
+dr,keithfeist@yahoo.com,Keith,td_parlay,2,Jordan Whittington,jordan whittington,jordan_whittington,Jordan Whittington,TRUE
+dr,keithfeist@yahoo.com,Keith,td_parlay,3,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,kyansharshari@gmail.com,Kyan Sharshari,td_parlay,1,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,kyansharshari@gmail.com,Kyan Sharshari,td_parlay,2,CMC,cmc,christian_mccaffrey,Christian McCaffrey,TRUE
+dr,kyansharshari@gmail.com,Kyan Sharshari,td_parlay,3,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,kyledollison@roadrunner.com,Kyle Dollison,td_parlay,1,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,kyledollison@roadrunner.com,Kyle Dollison,td_parlay,2,Diggs,diggs,stefon_diggs,Stefon Diggs,TRUE
+dr,kyledollison@roadrunner.com,Kyle Dollison,td_parlay,3,Allen,allen,josh_allen,Josh Allen,TRUE
+dr,kylermamou@gmail.com,Kyler Mamou,td_parlay,1,James Cook,james cook,james_cook,James Cook,TRUE
+dr,kylermamou@gmail.com,Kyler Mamou,td_parlay,2,Diggs,diggs,stefon_diggs,Stefon Diggs,TRUE
+dr,kylermamou@gmail.com,Kyler Mamou,td_parlay,3,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,mattalanboyd@gmail.com,Matt B,td_parlay,1,,,,,FALSE
+dr,mattalanboyd@gmail.com,Matt B,td_parlay,2,,,,,FALSE
+dr,mattalanboyd@gmail.com,Matt B,td_parlay,3,,,,,FALSE
+dr,maxj96@gmail.com,Max Alper,td_parlay,1,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,maxj96@gmail.com,Max Alper,td_parlay,2,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,maxj96@gmail.com,Max Alper,td_parlay,3,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,epbillig@bergelectric.com,Michele Billig,td_parlay,1,,,,,FALSE
+dr,epbillig@bergelectric.com,Michele Billig,td_parlay,2,,,,,FALSE
+dr,epbillig@bergelectric.com,Michele Billig,td_parlay,3,,,,,FALSE
+dr,peteg805@gmail.com,Peter Ghersen,td_parlay,1,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,peteg805@gmail.com,Peter Ghersen,td_parlay,2,cmc,cmc,christian_mccaffrey,Christian McCaffrey,TRUE
+dr,peteg805@gmail.com,Peter Ghersen,td_parlay,3,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,phil.j.nguyen@gmail.com,Phil Nguyen,td_parlay,1,Juszczyk,juszczyk,kyle_juszczyk,Kyle Juszczyk,TRUE
+dr,phil.j.nguyen@gmail.com,Phil Nguyen,td_parlay,2,Boutte,boutte,kayshon_boutte,Kayshon Boutte,TRUE
+dr,phil.j.nguyen@gmail.com,Phil Nguyen,td_parlay,3,Charlie Kirk,charlie kirk,christian_kirk,Christian Kirk,TRUE
+dr,jamers28@gmail.com,Rich,td_parlay,1,JSN,jsn,jaxon_smith_njigba,Jaxon Smith-Njigba,TRUE
+dr,jamers28@gmail.com,Rich,td_parlay,2,Cook,cook,james_cook,James Cook,TRUE
+dr,jamers28@gmail.com,Rich,td_parlay,3,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,ross.philip.cohen@gmail.com,Ross Cohen,td_parlay,1,Shakir,shakir,khalil_shakir,Khalil Shakir,TRUE
+dr,ross.philip.cohen@gmail.com,Ross Cohen,td_parlay,2,Puka,puka,puka_nacua,Puka Nacua,TRUE
+dr,ross.philip.cohen@gmail.com,Ross Cohen,td_parlay,3,Davante,davante,davante_adams,Davante Adams,TRUE
+dr,ryancmckeown@gmail.com,Ryan McKeown,td_parlay,1,Josh Allen,josh allen,josh_allen,Josh Allen,TRUE
+dr,ryancmckeown@gmail.com,Ryan McKeown,td_parlay,2,Davante Adams,davante adams,davante_adams,Davante Adams,TRUE
+dr,ryancmckeown@gmail.com,Ryan McKeown,td_parlay,3,Jake Tonges,jake tonges,jake_tonges,Jake Tonges,TRUE
+dr,ryansalim@live.com,Ryan Salim,td_parlay,1,Troy Franklin,troy franklin,troy_franklin,Troy Franklin,TRUE
+dr,ryansalim@live.com,Ryan Salim,td_parlay,2,Luther Burden,luther burden,luther_burden_iii,Luther Burden III,TRUE
+dr,ryansalim@live.com,Ryan Salim,td_parlay,3,Derek Stingley,derek stingley,derek_stingley_jr,Derek Stingley Jr.,TRUE
+dr,smwisch@gmail.com,Spencer Wisch,td_parlay,1,Odunze,odunze,rome_odunze,Rome Odunze,TRUE
+dr,smwisch@gmail.com,Spencer Wisch,td_parlay,2,Puca,puca,puka_nacua,Puka Nacua,TRUE
+dr,smwisch@gmail.com,Spencer Wisch,td_parlay,3,Kupp,kupp,cooper_kupp,Cooper Kupp,TRUE
+dr,tim@revealwines.com,Tim Ortman,td_parlay,1,NACUA,nacua,puka_nacua,Puka Nacua,TRUE
+dr,tim@revealwines.com,Tim Ortman,td_parlay,2,DIGGS,diggs,stefon_diggs,Stefon Diggs,TRUE
+dr,tim@revealwines.com,Tim Ortman,td_parlay,3,SUTTON,sutton,courtland_sutton,Courtland Sutton,TRUE
+dr,will.laws26@gmail.com,Will Laws,td_parlay,1,Nacua,nacua,puka_nacua,Puka Nacua,TRUE
+dr,will.laws26@gmail.com,Will Laws,td_parlay,2,Collins,collins,nico_collins,Nico Collins,TRUE
+dr,will.laws26@gmail.com,Will Laws,td_parlay,3,Cook,cook,james_cook,James Cook,TRUE
+dr,zacharybear3@yahoo.com,Zach Bear,td_parlay,1,Puka Nacua,puka nacua,puka_nacua,Puka Nacua,TRUE
+dr,zacharybear3@yahoo.com,Zach Bear,td_parlay,2,Cooper Kupp,cooper kupp,cooper_kupp,Cooper Kupp,TRUE
+dr,zacharybear3@yahoo.com,Zach Bear,td_parlay,3,Christian McCaffrey,christian mccaffrey,christian_mccaffrey,Christian McCaffrey,TRUE

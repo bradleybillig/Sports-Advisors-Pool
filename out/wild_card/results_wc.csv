@@ -1,0 +1,13 @@
+season,round,game_id,market,correct_pick,option_1,option_2
+2026,wc,WC_01,spread,Bills -1,Bills -1,Jaguars +1
+2026,wc,WC_01,total,Under 51.5,Over 51.5,Under 51.5
+2026,wc,WC_02,spread,Da Bears +1,Da Bears +1,Packers -1
+2026,wc,WC_02,total,Over 45,Over 45,Under 45
+2026,wc,WC_03,spread,Texans -3,Steelers +3,Texans -3
+2026,wc,WC_03,total,Under 38.5,Over 38.5,Under 38.5
+2026,wc,WC_04,spread,Patriots  -3.5,Chargers +3.5,Patriots  -3.5
+2026,wc,WC_04,total,Under 46,Over 46,Under 46
+2026,wc,WC_05,spread,Panthers +10.5,Panthers +10.5,Rams -10.5
+2026,wc,WC_05,total,Over 46.5,Over 46.5,Under 46.5
+2026,wc,WC_06,spread,49ers +4.5,49ers +4.5,Eagles -4.5
+2026,wc,WC_06,total,Under 44.5,Over 44.5,Under 44.5

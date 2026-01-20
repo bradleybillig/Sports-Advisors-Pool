@@ -1,0 +1,3 @@
+season,round,email,base_points,wins,losses,lock_hits,lock_points,total_points,tiebreaker_guess,tiebreaker_valid,tiebreaker_diff
+2026,con,billigbrad@gmail.com,4,2,2,0,0,4,50,TRUE,10
+2026,con,bradbillig@gmail.com,4,2,2,0,0,4,70,FALSE,NA

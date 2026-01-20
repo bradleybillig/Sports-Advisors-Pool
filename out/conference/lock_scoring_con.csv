@@ -1,0 +1,3 @@
+season,round,email,lock_slot,lock_text,lock_norm,lock_team_tokens,lock_nums,market_hint,side_hint,game_hint,game_hint_method,matched,match_score,matched_reason,matched_game_id,matched_market,matched_pick,lock_hit,lock_points
+2026,con,billigbrad@gmail.com,1,Seahawks -6,seahawks -6,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,CON_02,spread,Seahawks -6,FALSE,0
+2026,con,bradbillig@gmail.com,1,Patriots -3,patriots -3,,,spread,NA,NA,lookup_none,TRUE,110,match_by_number,CON_01,spread,Patriots -3,FALSE,0
